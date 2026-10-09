@@ -1,0 +1,38 @@
+{
+  "record_id": "REC-0001",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0141",
+  "cost_centre": "CC-410",
+  "date": "2026-09-01",
+  "vendor_name": "Acme Office Supplies Pte Ltd",
+  "signature_present": true,
+  "approver_name": "Linda Tan",
+  "approver_title": "Head of Administration",
+  "prepared_by": "Jason Koh",
+  "prepared_by_title": "Admin Executive",
+  "category": "Goods",
+  "items": [
+    {
+      "description": "A4 Copier Paper 80gsm (ream)",
+      "qty": 100,
+      "unit_price": 5.2,
+      "total": 520.0
+    },
+    {
+      "description": "Whiteboard Markers (box of 12)",
+      "qty": 20,
+      "unit_price": 8.5,
+      "total": 170.0
+    },
+    {
+      "description": "Heavy Duty Stapler",
+      "qty": 5,
+      "unit_price": 24.0,
+      "total": 120.0
+    }
+  ],
+  "service_description": "N/A",
+  "total": 810.0,
+  "currency": "SGD",
+  "pdf_file": "S01_PO_PR-2026-0141_Acme.pdf"
+}

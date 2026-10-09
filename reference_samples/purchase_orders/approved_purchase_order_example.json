@@ -1,0 +1,29 @@
+{
+  "document_type": "PURCHASE_ORDER",
+  "field_values": {
+    "supplier": "Northbridge Office Supplies Pte. Ltd.",
+    "document_number": "PO-1001",
+    "document_date": "2026-10-01",
+    "amount": 1526.0,
+    "currency": "SGD"
+  },
+  "labels": {
+    "supplier": [
+      "Vendor Name"
+    ],
+    "purchase_order_number": [
+      "Buyer Order ID"
+    ],
+    "document_date": [
+      "Order Creation Date"
+    ],
+    "amount": [
+      "Approved Order Value"
+    ]
+  },
+  "keywords": [
+    "approved order",
+    "office equipment",
+    "procurement"
+  ]
+}

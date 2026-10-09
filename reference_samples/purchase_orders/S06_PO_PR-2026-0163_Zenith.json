@@ -1,0 +1,32 @@
+{
+  "record_id": "REC-0006",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0163",
+  "cost_centre": "CC-330",
+  "date": "2026-09-08",
+  "vendor_name": "Zenith IT Hardware Pte Ltd",
+  "signature_present": true,
+  "approver_name": "Priya Nair",
+  "approver_title": "IT Director",
+  "prepared_by": "Daniel Ong",
+  "prepared_by_title": "IT Support Analyst",
+  "category": "Goods",
+  "items": [
+    {
+      "description": "USB-C Docking Station",
+      "qty": 5,
+      "unit_price": 189.0,
+      "total": 945.0
+    },
+    {
+      "description": "HDMI Cable 2m",
+      "qty": 10,
+      "unit_price": 12.5,
+      "total": 125.0
+    }
+  ],
+  "service_description": "N/A",
+  "total": 1070.0,
+  "currency": "SGD",
+  "pdf_file": "S06_PO_PR-2026-0163_Zenith.pdf"
+}

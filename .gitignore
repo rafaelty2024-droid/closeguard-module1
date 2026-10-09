@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+input/
+output/
+review/
+processed_hashes.txt

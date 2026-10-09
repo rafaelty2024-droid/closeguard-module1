@@ -1,0 +1,13 @@
+{
+  "record_id": "REC-0004",
+  "doc_type": "INVOICE",
+  "invoice_reference": "CP-2609-0415",
+  "po_reference": null,
+  "date": "2026-09-30",
+  "vendor_name": "CleanPro Services",
+  "items": [],
+  "service_description": "Office cleaning, Levels 5 and 6 - Sept 2026 (monthly contract)",
+  "total": 1850.0,
+  "currency": "SGD",
+  "pdf_file": "S04_INV_CP-2609-0415_CleanPro.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "REC-0011",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0181",
+  "cost_centre": "CC-120",
+  "date": "2026-09-22",
+  "vendor_name": "Savor Catering Co",
+  "signature_present": true,
+  "approver_name": "Rachel Goh",
+  "approver_title": "HR Director",
+  "prepared_by": "Ivan Chua",
+  "prepared_by_title": "HR Executive",
+  "category": "Services",
+  "items": [],
+  "service_description": "Catering for staff townhall, 120 pax (lunch buffet)",
+  "total": 2400.0,
+  "currency": "SGD",
+  "pdf_file": "S11_PO_PR-2026-0181_Savor.pdf"
+}

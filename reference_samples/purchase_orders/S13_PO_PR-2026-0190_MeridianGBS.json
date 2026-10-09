@@ -1,0 +1,19 @@
+{
+  "record_id": "REC-0013",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0190",
+  "cost_centre": "CC-610",
+  "date": "2026-09-24",
+  "vendor_name": "Meridian Global Business Services Pte Ltd",
+  "signature_present": true,
+  "approver_name": "Helen Wong",
+  "approver_title": "Head of Sales",
+  "prepared_by": "Nadia Salim",
+  "prepared_by_title": "Sales Operations Executive",
+  "category": "Services",
+  "items": [],
+  "service_description": "Corporate travel: 2 pax SIN-FRA return flights and 4 nights hotel in Frankfurt, 12-16 Oct 2026",
+  "total": 5860.0,
+  "currency": "SGD",
+  "pdf_file": "S13_PO_PR-2026-0190_MeridianGBS.pdf"
+}

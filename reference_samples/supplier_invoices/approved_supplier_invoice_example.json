@@ -1,0 +1,34 @@
+{
+  "document_type": "SUPPLIER_INVOICE",
+  "field_values": {
+    "supplier": "Northbridge Office Supplies Pte. Ltd.",
+    "document_number": "INV-1001",
+    "po_reference": "PO-1001",
+    "document_date": "2026-10-06",
+    "amount": 1526.0,
+    "currency": "SGD"
+  },
+  "labels": {
+    "supplier": [
+      "Seller Name"
+    ],
+    "invoice_number": [
+      "Sales Invoice ID",
+      "Billing Reference"
+    ],
+    "po_reference": [
+      "Buyer Order ID"
+    ],
+    "document_date": [
+      "Billing Date"
+    ],
+    "amount": [
+      "Balance Payable"
+    ]
+  },
+  "keywords": [
+    "supplier billing",
+    "balance payable",
+    "tax invoice"
+  ]
+}

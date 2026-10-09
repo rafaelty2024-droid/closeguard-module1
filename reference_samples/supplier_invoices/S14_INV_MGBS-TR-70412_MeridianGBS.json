@@ -1,0 +1,32 @@
+{
+  "record_id": "REC-0014",
+  "doc_type": "INVOICE",
+  "invoice_reference": "MGBS-TR-70412",
+  "po_reference": "PR-2026-0190",
+  "date": "2026-09-29",
+  "vendor_name": "Meridian GBS Pte Ltd",
+  "items": [
+    {
+      "description": "Return flights SIN-FRA-SIN (economy flex)",
+      "qty": 2,
+      "unit_price": 1640.0,
+      "total": 3280.0
+    },
+    {
+      "description": "Hotel Frankfurt, 4 nights x 2 rooms",
+      "qty": 8,
+      "unit_price": 285.0,
+      "total": 2280.0
+    },
+    {
+      "description": "Booking & service fee",
+      "qty": 2,
+      "unit_price": 150.0,
+      "total": 300.0
+    }
+  ],
+  "service_description": null,
+  "total": 5860.0,
+  "currency": "SGD",
+  "pdf_file": "S14_INV_MGBS-TR-70412_MeridianGBS.pdf"
+}

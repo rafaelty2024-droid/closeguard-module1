@@ -1,0 +1,87 @@
+{
+  "classification_threshold": 0.18,
+  "document_type_aliases": {
+    "PURCHASE_ORDER": [
+      "purchase order",
+      "purchase order document",
+      "po"
+    ],
+    "SUPPLIER_INVOICE": [
+      "supplier invoice",
+      "sales invoice",
+      "tax invoice",
+      "commercial invoice",
+      "invoice"
+    ],
+    "RECEIPT": [
+      "receipt",
+      "payment receipt"
+    ]
+  },
+  "field_labels": {
+    "document_type": [
+      "Document Type",
+      "Document Category",
+      "Type"
+    ],
+    "supplier": [
+      "Supplier",
+      "Supplier Name",
+      "Vendor",
+      "Vendor Name",
+      "Issued By",
+      "Seller",
+      "Sold By",
+      "From"
+    ],
+    "invoice_number": [
+      "Document Number",
+      "Invoice Number",
+      "Invoice No",
+      "Invoice #",
+      "Sales Invoice Number",
+      "Tax Invoice Number",
+      "Bill Number"
+    ],
+    "purchase_order_number": [
+      "Document Number",
+      "PO Number",
+      "PO No",
+      "PO #",
+      "Purchase Order Number",
+      "Purchase Order No",
+      "Order Number"
+    ],
+    "po_reference": [
+      "PO Reference",
+      "Purchase Order Reference",
+      "PO Number",
+      "PO No",
+      "PO #",
+      "Purchase Order Number",
+      "Customer PO",
+      "Buyer PO"
+    ],
+    "document_date": [
+      "Document Date",
+      "Invoice Date",
+      "Order Date",
+      "PO Date",
+      "Date"
+    ],
+    "amount": [
+      "Amount",
+      "Total Amount",
+      "Invoice Total",
+      "Order Total",
+      "Grand Total",
+      "Amount Due",
+      "Net Total",
+      "Total"
+    ],
+    "currency": [
+      "Currency",
+      "Currency Code"
+    ]
+  }
+}

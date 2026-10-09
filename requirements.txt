@@ -1,0 +1,12 @@
+pandas
+pdfplumber
+openpyxl
+python-dotenv
+streamlit
+Pillow
+pytesseract
+PyMuPDF
+python-docx
+pillow-heif
+rapidocr
+onnxruntime

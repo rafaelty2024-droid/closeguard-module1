@@ -1,0 +1,32 @@
+{
+  "record_id": "REC-0002",
+  "doc_type": "INVOICE",
+  "invoice_reference": "AOS-INV-30871",
+  "po_reference": "PR-2026-0141",
+  "date": "2026-09-09",
+  "vendor_name": "ACME OFFICE SUPPLIES PTE. LTD.",
+  "items": [
+    {
+      "description": "A4 Paper 80gsm - Ream",
+      "qty": 100,
+      "unit_price": 5.2,
+      "total": 520.0
+    },
+    {
+      "description": "Whiteboard Marker Box/12",
+      "qty": 20,
+      "unit_price": 8.5,
+      "total": 170.0
+    },
+    {
+      "description": "Stapler, Heavy Duty",
+      "qty": 5,
+      "unit_price": 24.0,
+      "total": 120.0
+    }
+  ],
+  "service_description": null,
+  "total": 810.0,
+  "currency": "SGD",
+  "pdf_file": "S02_INV_AOS-INV-30871_Acme.pdf"
+}

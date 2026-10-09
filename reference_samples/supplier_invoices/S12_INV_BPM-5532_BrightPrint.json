@@ -1,0 +1,26 @@
+{
+  "record_id": "REC-0012",
+  "doc_type": "INVOICE",
+  "invoice_reference": "BPM-5532",
+  "po_reference": null,
+  "date": "2026-09-25",
+  "vendor_name": "BrightPrint Media Pte Ltd",
+  "items": [
+    {
+      "description": "Roll-up Banner 85x200cm",
+      "qty": 3,
+      "unit_price": 135.0,
+      "total": 405.0
+    },
+    {
+      "description": "A5 Brochure, 128gsm gloss",
+      "qty": 500,
+      "unit_price": 1.1,
+      "total": 550.0
+    }
+  ],
+  "service_description": null,
+  "total": 955.0,
+  "currency": "SGD",
+  "pdf_file": "S12_INV_BPM-5532_BrightPrint.pdf"
+}

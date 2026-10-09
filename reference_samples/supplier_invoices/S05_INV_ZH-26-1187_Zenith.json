@@ -1,0 +1,26 @@
+{
+  "record_id": "REC-0005",
+  "doc_type": "INVOICE",
+  "invoice_reference": "ZH/26/1187",
+  "po_reference": "PR-2026-0163",
+  "date": "2026-09-14",
+  "vendor_name": "Zenith IT Hardware Pte Ltd",
+  "items": [
+    {
+      "description": "USB-C Docking Station",
+      "qty": 5,
+      "unit_price": 189.0,
+      "total": 945.0
+    },
+    {
+      "description": "HDMI Cable 2m",
+      "qty": 10,
+      "unit_price": 12.5,
+      "total": 125.0
+    }
+  ],
+  "service_description": null,
+  "total": 1070.0,
+  "currency": "SGD",
+  "pdf_file": "S05_INV_ZH-26-1187_Zenith.pdf"
+}

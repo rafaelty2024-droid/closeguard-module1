@@ -1,0 +1,13 @@
+{
+  "record_id": "REC-0017",
+  "doc_type": "INVOICE",
+  "invoice_reference": "SB-INV-2210",
+  "po_reference": null,
+  "date": "2026-10-02",
+  "vendor_name": "Skillbridge Learning Academy",
+  "items": [],
+  "service_description": "Leadership Essentials in-house workshop (2-day, 15 pax), delivered Sept 2026",
+  "total": 9000.0,
+  "currency": "SGD",
+  "pdf_file": "S17_INV_SB-INV-2210_SkillBridge_DUPLICATE.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "REC-0010",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0170",
+  "cost_centre": "CC-510",
+  "date": "2026-09-18",
+  "vendor_name": "Lumen Furniture Pte Ltd",
+  "signature_present": false,
+  "approver_name": "Grace Yeo",
+  "approver_title": "",
+  "prepared_by": "Sam Teo",
+  "prepared_by_title": "Office Coordinator",
+  "category": "Goods",
+  "items": [
+    {
+      "description": "Ergonomic Mesh Chair",
+      "qty": 4,
+      "unit_price": 320.0,
+      "total": 1280.0
+    }
+  ],
+  "service_description": "N/A",
+  "total": 1280.0,
+  "currency": "SGD",
+  "pdf_file": "S10_PO_INCOMPLETE_Lumen.pdf"
+}

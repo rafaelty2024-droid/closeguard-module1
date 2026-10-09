@@ -1,0 +1,13 @@
+{
+  "record_id": "REC-0009",
+  "doc_type": "INVOICE",
+  "invoice_reference": null,
+  "po_reference": null,
+  "date": null,
+  "vendor_name": "Orion Courier Services",
+  "items": [],
+  "service_description": "Express courier - September 2026 batch deliveries",
+  "total": 640.0,
+  "currency": "SGD",
+  "pdf_file": "S09_INV_INCOMPLETE_Orion.pdf"
+}

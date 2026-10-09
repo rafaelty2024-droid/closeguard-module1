@@ -1,0 +1,19 @@
+{
+  "record_id": "REC-0015",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0197",
+  "cost_centre": "CC-130",
+  "date": "2026-09-26",
+  "vendor_name": "SkillBridge Learning Academy Pte Ltd",
+  "signature_present": true,
+  "approver_name": "Rachel Goh",
+  "approver_title": "HR Director",
+  "prepared_by": "Ivan Chua",
+  "prepared_by_title": "HR Executive",
+  "category": "Services",
+  "items": [],
+  "service_description": "In-house Leadership Essentials workshop, 2 days, 15 participants",
+  "total": 9000.0,
+  "currency": "SGD",
+  "pdf_file": "S15_PO_PR-2026-0197_SkillBridge.pdf"
+}

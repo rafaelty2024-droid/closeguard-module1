@@ -1,0 +1,19 @@
+{
+  "record_id": "REC-0003",
+  "doc_type": "PO",
+  "po_reference": "PR-2026-0152",
+  "cost_centre": "CC-220",
+  "date": "2026-09-03",
+  "vendor_name": "CleanPro Services Pte Ltd",
+  "signature_present": true,
+  "approver_name": "Marcus Lim",
+  "approver_title": "Facilities Manager",
+  "prepared_by": "Aisha Rahman",
+  "prepared_by_title": "Facilities Coordinator",
+  "category": "Services",
+  "items": [],
+  "service_description": "Monthly office cleaning services - Level 5 & 6 (September 2026)",
+  "total": 1850.0,
+  "currency": "SGD",
+  "pdf_file": "S03_PO_PR-2026-0152_CleanPro.pdf"
+}
